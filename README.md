@@ -1,6 +1,6 @@
-Membrane-based integrated photonics.
+**Membrane-based integrated photonics.**
 
-Multi-physics simulation-driven design-to-fab.
+**Multi-physics simulation-driven design-to-fab.**
 
 I build active photonic devices on silicon. The materials that modulate and emit light don't grow on it, so I move them onto CMOS-compatible platforms as thin freestanding membranes, then design and fabricate the devices in-house. The most immediate application is optical interconnects, moving data on and between chips, but the same approach extends across active photonics.
 
