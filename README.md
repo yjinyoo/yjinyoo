@@ -6,9 +6,9 @@ I build active photonic devices on silicon. The materials that modulate and emit
 
 **What I work on:**
 
-- Complex oxides (lithium niobate, barium titanate) for electro-optic modulators
-- III-V and III-N for on-chip lasers and resonant-cavity LEDs
-- Heterogeneous integration onto CMOS via 2D-material-assisted epitaxy and transfer
+- Complex oxides (lithium niobate, barium titanate) for low-voltage electro-optic modulators based on photonic-crystal cavities
+- III-V and III-N for on-chip lasers and resonant-cavity LEDs, integrated as coupons at high density
+- Heterogeneous integration onto CMOS, photonic ICs, and other platforms via 2D-material-assisted epitaxy and transfer
 
 **From target to measured device, one loop:**
 
