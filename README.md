@@ -17,6 +17,6 @@ I build active photonic devices on silicon. The materials that modulate and emit
 - **Build:** fabrication realizes that window, with DFT-guided interface engineering and membrane transfer
 - **Prove:** device and optical measurement, read out with coupled-mode theory, close the loop and calibrate the model
 
-**Across the design stage:** TCAD (devices), DFT (materials), FEM (mechanics), FDTD / RCWA / mode solving / ray optics (photonics).
+**Across the design stage:** TCAD (devices), DFT (materials), FEM (electrostatics, mechanics), FDTD / RCWA / mode solving / ray optics (photonics).
 
 Each pass de-risks the next fabrication and sharpens the model. Everything is scripted in Python, with the heavy solves in the cloud.
